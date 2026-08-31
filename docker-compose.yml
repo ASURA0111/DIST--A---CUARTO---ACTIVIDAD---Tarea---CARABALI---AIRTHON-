@@ -1,0 +1,106 @@
+# Autor: Steveen Carabalí
+services:
+  rabbitmq:
+    image: rabbitmq:4-management
+    container_name: rabbitmqA-compose
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: admin
+      RABBITMQ_DEFAULT_PASS: 123456
+    healthcheck: 
+      test: ["CMD", "rabbitmq-diagnostics", "-q", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - distribuidos-network
+
+  categoria:
+    build:
+      context: ./Categoria_Tarea_A/Categoria_Tarea_A
+      dockerfile: Dockerfile
+    container_name: categoria-api-compose
+    ports:
+      - "5001:8080"
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: "http://+:8080"
+      ConnectionStrings__DefaultConnection: >-
+        Server=host.docker.internal,1433;
+        Database=Concesionario;
+        User Id=Airthon;
+        Password=@Tequiero01;
+        TrustServerCertificate=True;
+        Encrypt=False;
+      RabbitMQ__HostName: rabbitmq
+      RabbitMQ__Port: 5672
+      RabbitMQ__UserName: admin
+      RabbitMQ__Password: 123456
+      RabbitMQ__QueueName: categoria_creada
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+    networks:
+      - distribuidos-network
+
+  vehiculo:
+    build:
+      context: ./Vehiculo_Tarea_A/Vehiculo_Tarea_A
+      dockerfile: Dockerfile
+    container_name: vehiculo-api-compose
+    ports:
+      - "5002:8080"
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: "http://+:8080"
+
+      ConnectionStrings__VehiculoConnection: >-
+        Server=host.docker.internal,1433;
+        Database=Vehiculo_A;
+        User Id=Airthon;
+        Password=@Tequiero01;
+        TrustServerCertificate=True;
+        Encrypt=False;
+      RabbitMQ__HostName: rabbitmq
+      RabbitMQ__Port: 5672
+      RabbitMQ__UserName: admin
+      RabbitMQ__Password: 123456
+      RabbitMQ__QueueName: categoria_creada
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+    networks:
+      - distribuidos-network
+
+  apigateway:
+    build:
+      context: ./Api_Gateway_Tarea
+      dockerfile: Api_Gateway_Tarea/Dockerfile
+    container_name: apigateway-api-compose
+    ports:
+      - "5000:8080"
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: "http://+:8080"
+      
+      # REGLAS DE CATEGORÍA
+      ReverseProxy__Routes__categoriasRoute__ClusterId: "categoriasCluster"
+      ReverseProxy__Routes__categoriasRoute__Match__Path: "/api/Categoria/{**catch-all}"
+      ReverseProxy__Clusters__categoriasCluster__Destinations__categoriasDestination__Address: "http://categoria:8080"
+      
+      # REGLAS DE VEHÍCULO
+      ReverseProxy__Routes__vehiculosRoute__ClusterId: "vehiculosCluster"
+      ReverseProxy__Routes__vehiculosRoute__Match__Path: "/api/Vehiculo/{**catch-all}"
+      ReverseProxy__Clusters__vehiculosCluster__Destinations__vehiculosDestination__Address: "http://vehiculo:8080"
+      
+    depends_on: 
+      - categoria
+      - vehiculo
+    networks:
+      - distribuidos-network
+
+networks:
+  distribuidos-network:
+    driver: bridge

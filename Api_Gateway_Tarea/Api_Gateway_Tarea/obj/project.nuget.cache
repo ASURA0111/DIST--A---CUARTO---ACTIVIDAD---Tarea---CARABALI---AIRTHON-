@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XLP6VW8xVc8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\Api_Gateway_Tarea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Det-Pc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512",
+    "C:\\Users\\Det-Pc\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
+    "C:\\Users\\Det-Pc\\.nuget\\packages\\yarp.reverseproxy\\2.3.0\\yarp.reverseproxy.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

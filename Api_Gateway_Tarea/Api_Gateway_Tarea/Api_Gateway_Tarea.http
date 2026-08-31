@@ -1,0 +1,18 @@
+@ApiGateway = https://localhost:7105
+
+### Consultar categorías por Gateway
+# Autor: Steveen Carabalí
+GET {{ApiGateway}}/api/Categoria
+Accept: application/json
+
+###
+
+### Crear categoría por Gateway
+POST {{ApiGateway}}/api/Categoria
+Content-Type: application/json
+
+{
+  "nombre": "SUV",
+  "descripcion": "Vehículos Utilitarios Deportivos familiares",    
+  "estado": true
+}

@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5116873D-E376-971B-B4D6-7A4F62C678A6}|Categoria_Tarea_A\\Categoria_Tarea_A.csproj|c:\\users\\det-pc\\source\\repos\\tarea api gateway\\categoria_tarea_a\\categoria_tarea_a\\services\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5116873D-E376-971B-B4D6-7A4F62C678A6}|Categoria_Tarea_A\\Categoria_Tarea_A.csproj|solutionrelative:categoria_tarea_a\\services\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5116873D-E376-971B-B4D6-7A4F62C678A6}|Categoria_Tarea_A\\Categoria_Tarea_A.csproj|c:\\users\\det-pc\\source\\repos\\tarea api gateway\\categoria_tarea_a\\categoria_tarea_a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5116873D-E376-971B-B4D6-7A4F62C678A6}|Categoria_Tarea_A\\Categoria_Tarea_A.csproj|solutionrelative:categoria_tarea_a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5116873D-E376-971B-B4D6-7A4F62C678A6}|Categoria_Tarea_A\\Categoria_Tarea_A.csproj|c:\\users\\det-pc\\source\\repos\\tarea api gateway\\categoria_tarea_a\\categoria_tarea_a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5116873D-E376-971B-B4D6-7A4F62C678A6}|Categoria_Tarea_A\\Categoria_Tarea_A.csproj|solutionrelative:categoria_tarea_a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5116873D-E376-971B-B4D6-7A4F62C678A6}|Categoria_Tarea_A\\Categoria_Tarea_A.csproj|c:\\users\\det-pc\\source\\repos\\tarea api gateway\\categoria_tarea_a\\categoria_tarea_a\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5116873D-E376-971B-B4D6-7A4F62C678A6}|Categoria_Tarea_A\\Categoria_Tarea_A.csproj|solutionrelative:categoria_tarea_a\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5116873D-E376-971B-B4D6-7A4F62C678A6}|Categoria_Tarea_A\\Categoria_Tarea_A.csproj|c:\\users\\det-pc\\source\\repos\\tarea api gateway\\categoria_tarea_a\\categoria_tarea_a\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5116873D-E376-971B-B4D6-7A4F62C678A6}|Categoria_Tarea_A\\Categoria_Tarea_A.csproj|solutionrelative:categoria_tarea_a\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5116873D-E376-971B-B4D6-7A4F62C678A6}|Categoria_Tarea_A\\Categoria_Tarea_A.csproj|c:\\users\\det-pc\\source\\repos\\tarea api gateway\\categoria_tarea_a\\categoria_tarea_a\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5116873D-E376-971B-B4D6-7A4F62C678A6}|Categoria_Tarea_A\\Categoria_Tarea_A.csproj|solutionrelative:categoria_tarea_a\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5116873D-E376-971B-B4D6-7A4F62C678A6}|Categoria_Tarea_A\\Categoria_Tarea_A.csproj|c:\\users\\det-pc\\source\\repos\\tarea api gateway\\categoria_tarea_a\\categoria_tarea_a\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5116873D-E376-971B-B4D6-7A4F62C678A6}|Categoria_Tarea_A\\Categoria_Tarea_A.csproj|solutionrelative:categoria_tarea_a\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5116873D-E376-971B-B4D6-7A4F62C678A6}|Categoria_Tarea_A\\Categoria_Tarea_A.csproj|c:\\users\\det-pc\\source\\repos\\tarea api gateway\\categoria_tarea_a\\categoria_tarea_a\\data\\categoriadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5116873D-E376-971B-B4D6-7A4F62C678A6}|Categoria_Tarea_A\\Categoria_Tarea_A.csproj|solutionrelative:categoria_tarea_a\\data\\categoriadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5116873D-E376-971B-B4D6-7A4F62C678A6}|Categoria_Tarea_A\\Categoria_Tarea_A.csproj|c:\\users\\det-pc\\source\\repos\\tarea api gateway\\categoria_tarea_a\\categoria_tarea_a\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5116873D-E376-971B-B4D6-7A4F62C678A6}|Categoria_Tarea_A\\Categoria_Tarea_A.csproj|solutionrelative:categoria_tarea_a\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\Categoria_Tarea_A\\Dockerfile",
+              "RelativeDocumentMoniker": "Categoria_Tarea_A\\Dockerfile",
+              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\Categoria_Tarea_A\\Dockerfile",
+              "RelativeToolTip": "Categoria_Tarea_A\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-25T02:00:07.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMQPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\Categoria_Tarea_A\\Services\\RabbitMQPublisher.cs",
+              "RelativeDocumentMoniker": "Categoria_Tarea_A\\Services\\RabbitMQPublisher.cs",
+              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\Categoria_Tarea_A\\Services\\RabbitMQPublisher.cs",
+              "RelativeToolTip": "Categoria_Tarea_A\\Services\\RabbitMQPublisher.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T00:31:18.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\Categoria_Tarea_A\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Categoria_Tarea_A\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\Categoria_Tarea_A\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "Categoria_Tarea_A\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T23:31:33.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\Categoria_Tarea_A\\appsettings.json",
+              "RelativeDocumentMoniker": "Categoria_Tarea_A\\appsettings.json",
+              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\Categoria_Tarea_A\\appsettings.json",
+              "RelativeToolTip": "Categoria_Tarea_A\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-24T23:29:33.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\Categoria_Tarea_A\\Program.cs",
+              "RelativeDocumentMoniker": "Categoria_Tarea_A\\Program.cs",
+              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\Categoria_Tarea_A\\Program.cs",
+              "RelativeToolTip": "Categoria_Tarea_A\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T23:26:58.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\Categoria_Tarea_A\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Categoria_Tarea_A\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\Categoria_Tarea_A\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Categoria_Tarea_A\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-24T23:34:19.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\Categoria_Tarea_A\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Categoria_Tarea_A\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\Categoria_Tarea_A\\Models\\Categoria.cs",
+              "RelativeToolTip": "Categoria_Tarea_A\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T23:12:46.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriaDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\Categoria_Tarea_A\\Data\\CategoriaDBContext.cs",
+              "RelativeDocumentMoniker": "Categoria_Tarea_A\\Data\\CategoriaDBContext.cs",
+              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\Categoria_Tarea_A\\Data\\CategoriaDBContext.cs",
+              "RelativeToolTip": "Categoria_Tarea_A\\Data\\CategoriaDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T23:18:42.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\Categoria_Tarea_A\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Categoria_Tarea_A\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Categoria_Tarea_A\\Categoria_Tarea_A\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Categoria_Tarea_A\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T23:31:16.858Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

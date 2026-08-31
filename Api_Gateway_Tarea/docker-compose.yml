@@ -1,0 +1,6 @@
+services:
+  api_gateway_tarea:
+    image: ${DOCKER_REGISTRY-}apigatewaytarea
+    build:
+      context: .
+      dockerfile: Api_Gateway_Tarea/Dockerfile

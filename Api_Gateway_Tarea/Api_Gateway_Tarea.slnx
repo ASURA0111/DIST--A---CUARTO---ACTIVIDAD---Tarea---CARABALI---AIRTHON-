@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Api_Gateway_Tarea/Api_Gateway_Tarea.csproj" />
+  <Project Path="docker-compose.dcproj">
+    <Build />
+  </Project>
+</Solution>
