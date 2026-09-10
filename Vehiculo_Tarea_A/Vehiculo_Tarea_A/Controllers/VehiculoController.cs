@@ -4,11 +4,13 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Vehiculo_Tarea_A.Data;
 using Vehiculo_Tarea_A.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Vehiculo_Tarea_A.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class VehiculoController : ControllerBase
     {
         private readonly VehiculoDBContext _dbContext;

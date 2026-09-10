@@ -1,0 +1,81 @@
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\bin\Debug\net10.0\appsettings.json
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\bin\Debug\net10.0\OAuthJWT.staticwebassets.endpoints.json
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\bin\Debug\net10.0\OAuthJWT.exe
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\bin\Debug\net10.0\OAuthJWT.deps.json
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\bin\Debug\net10.0\OAuthJWT.runtimeconfig.json
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\bin\Debug\net10.0\OAuthJWT.dll
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\bin\Debug\net10.0\OAuthJWT.pdb
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.csproj.AssemblyReference.cache
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.AssemblyInfoInputs.cache
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.AssemblyInfo.cs
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.csproj.CoreCompileInputs.cache
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\scopedcss\bundle\OAuthJWT.styles.css
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.csproj.Up2Date
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.dll
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\refint\OAuthJWT.dll
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.pdb
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.genruntimeconfig.cache
+C:\Users\Det-Pc\source\repos\OAuthJWT\OAuthJWT\obj\Debug\net10.0\ref\OAuthJWT.dll
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\bin\Debug\net10.0\appsettings.json
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\bin\Debug\net10.0\OAuthJWT.staticwebassets.endpoints.json
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\bin\Debug\net10.0\OAuthJWT.exe
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\bin\Debug\net10.0\OAuthJWT.deps.json
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\bin\Debug\net10.0\OAuthJWT.runtimeconfig.json
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\bin\Debug\net10.0\OAuthJWT.dll
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\bin\Debug\net10.0\OAuthJWT.pdb
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.csproj.AssemblyReference.cache
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.AssemblyInfoInputs.cache
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.AssemblyInfo.cs
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.csproj.CoreCompileInputs.cache
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.sourcelink.json
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\scopedcss\bundle\OAuthJWT.styles.css
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.csproj.Up2Date
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.dll
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\refint\OAuthJWT.dll
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.pdb
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\OAuthJWT.genruntimeconfig.cache
+C:\Users\Det-Pc\source\repos\Tarea Api Gateway\OAuthJWT\OAuthJWT\obj\Debug\net10.0\ref\OAuthJWT.dll

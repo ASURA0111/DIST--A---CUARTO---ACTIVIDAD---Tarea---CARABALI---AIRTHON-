@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Det-Pc\\source\\repos\\Api_Gateway_Tarea\\",
+  "WorkspaceRootPath": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Api_Gateway_Tarea\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A65184C4-A370-48FC-E1A9-51F723FCDFFB}|Api_Gateway_Tarea\\Api_Gateway_Tarea.csproj|c:\\users\\det-pc\\source\\repos\\api_gateway_tarea\\api_gateway_tarea\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A65184C4-A370-48FC-E1A9-51F723FCDFFB}|Api_Gateway_Tarea\\Api_Gateway_Tarea.csproj|solutionrelative:api_gateway_tarea\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\det-pc\\source\\repos\\api_gateway_tarea\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A65184C4-A370-48FC-E1A9-51F723FCDFFB}|Api_Gateway_Tarea\\Api_Gateway_Tarea.csproj|c:\\users\\det-pc\\source\\repos\\api_gateway_tarea\\api_gateway_tarea\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A65184C4-A370-48FC-E1A9-51F723FCDFFB}|Api_Gateway_Tarea\\Api_Gateway_Tarea.csproj|c:\\users\\det-pc\\source\\repos\\tarea api gateway\\api_gateway_tarea\\api_gateway_tarea\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A65184C4-A370-48FC-E1A9-51F723FCDFFB}|Api_Gateway_Tarea\\Api_Gateway_Tarea.csproj|solutionrelative:api_gateway_tarea\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A65184C4-A370-48FC-E1A9-51F723FCDFFB}|Api_Gateway_Tarea\\Api_Gateway_Tarea.csproj|c:\\users\\det-pc\\source\\repos\\api_gateway_tarea\\api_gateway_tarea\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A65184C4-A370-48FC-E1A9-51F723FCDFFB}|Api_Gateway_Tarea\\Api_Gateway_Tarea.csproj|c:\\users\\det-pc\\source\\repos\\tarea api gateway\\api_gateway_tarea\\api_gateway_tarea\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A65184C4-A370-48FC-E1A9-51F723FCDFFB}|Api_Gateway_Tarea\\Api_Gateway_Tarea.csproj|solutionrelative:api_gateway_tarea\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\det-pc\\source\\repos\\tarea api gateway\\api_gateway_tarea\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65184C4-A370-48FC-E1A9-51F723FCDFFB}|Api_Gateway_Tarea\\Api_Gateway_Tarea.csproj|c:\\users\\det-pc\\source\\repos\\tarea api gateway\\api_gateway_tarea\\api_gateway_tarea\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A65184C4-A370-48FC-E1A9-51F723FCDFFB}|Api_Gateway_Tarea\\Api_Gateway_Tarea.csproj|solutionrelative:api_gateway_tarea\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A65184C4-A370-48FC-E1A9-51F723FCDFFB}|Api_Gateway_Tarea\\Api_Gateway_Tarea.csproj|c:\\users\\det-pc\\source\\repos\\api_gateway_tarea\\api_gateway_tarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A65184C4-A370-48FC-E1A9-51F723FCDFFB}|Api_Gateway_Tarea\\Api_Gateway_Tarea.csproj|c:\\users\\det-pc\\source\\repos\\tarea api gateway\\api_gateway_tarea\\api_gateway_tarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A65184C4-A370-48FC-E1A9-51F723FCDFFB}|Api_Gateway_Tarea\\Api_Gateway_Tarea.csproj|solutionrelative:api_gateway_tarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A65184C4-A370-48FC-E1A9-51F723FCDFFB}|Api_Gateway_Tarea\\Api_Gateway_Tarea.csproj|c:\\users\\det-pc\\source\\repos\\api_gateway_tarea\\api_gateway_tarea\\api_gateway_tarea.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{A65184C4-A370-48FC-E1A9-51F723FCDFFB}|Api_Gateway_Tarea\\Api_Gateway_Tarea.csproj|c:\\users\\det-pc\\source\\repos\\tarea api gateway\\api_gateway_tarea\\api_gateway_tarea\\api_gateway_tarea.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{A65184C4-A370-48FC-E1A9-51F723FCDFFB}|Api_Gateway_Tarea\\Api_Gateway_Tarea.csproj|solutionrelative:api_gateway_tarea\\api_gateway_tarea.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
@@ -34,67 +34,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\Dockerfile",
               "RelativeDocumentMoniker": "Api_Gateway_Tarea\\Dockerfile",
-              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\Dockerfile",
+              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\Dockerfile",
               "RelativeToolTip": "Api_Gateway_Tarea\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-08-25T02:01:26.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "docker-compose",
-              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Api_Gateway_Tarea\\docker-compose.dcproj",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Api_Gateway_Tarea\\docker-compose.dcproj",
               "RelativeDocumentMoniker": "docker-compose.dcproj",
-              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Api_Gateway_Tarea\\docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Api_Gateway_Tarea\\docker-compose.dcproj",
               "RelativeToolTip": "docker-compose.dcproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-08-25T02:01:09.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T02:01:09.596Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\Program.cs",
               "RelativeDocumentMoniker": "Api_Gateway_Tarea\\Program.cs",
-              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\Program.cs",
+              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\Program.cs",
               "RelativeToolTip": "Api_Gateway_Tarea\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-25T01:40:52.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T01:40:52.067Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Api_Gateway_Tarea\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\Properties\\launchSettings.json",
               "RelativeToolTip": "Api_Gateway_Tarea\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-25T01:39:03.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T01:39:03.009Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Api_Gateway_Tarea.http",
-              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\Api_Gateway_Tarea.http",
+              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\Api_Gateway_Tarea.http",
               "RelativeDocumentMoniker": "Api_Gateway_Tarea\\Api_Gateway_Tarea.http",
-              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\Api_Gateway_Tarea.http",
+              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\Api_Gateway_Tarea.http",
               "RelativeToolTip": "Api_Gateway_Tarea\\Api_Gateway_Tarea.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -102,13 +99,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\appsettings.json",
               "RelativeDocumentMoniker": "Api_Gateway_Tarea\\appsettings.json",
-              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\appsettings.json",
+              "ToolTip": "C:\\Users\\Det-Pc\\source\\repos\\Tarea Api Gateway\\Api_Gateway_Tarea\\Api_Gateway_Tarea\\appsettings.json",
               "RelativeToolTip": "Api_Gateway_Tarea\\appsettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-08-25T01:34:47.145Z",
               "EditorCaption": ""

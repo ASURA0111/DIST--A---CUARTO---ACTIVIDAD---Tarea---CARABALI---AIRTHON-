@@ -4,25 +4,20 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Categoria_Tarea_A.Data;
 using Categoria_Tarea_A.Models;
-using Categoria_Tarea_A.Services; // Importación agregada para el servicio de RabbitMQ
+using Microsoft.AspNetCore.Authorization;
 
 namespace Categoria_Tarea_A.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class CategoriaController : ControllerBase
     {
         private readonly CategoriaDBContext _dbContext;
 
-        private readonly RabbitMQPublisher _rabbitMQPublisher;
-
-        // 2. Inyección de dependencias en el constructor
-        public CategoriaController(
-            CategoriaDBContext dbContext,
-            RabbitMQPublisher rabbitMQPublisher)
+        public CategoriaController(CategoriaDBContext dbContext)
         {
             _dbContext = dbContext;
-            _rabbitMQPublisher = rabbitMQPublisher;
         }
 
         [HttpGet]
@@ -54,9 +49,6 @@ namespace Categoria_Tarea_A.Controllers
             _dbContext.categorias.Add(categoria);
 
             await _dbContext.SaveChangesAsync();
-
-            // 3. Llamada al publicador de RabbitMQ tras guardar en la base de datos
-            await _rabbitMQPublisher.PublicarCategoriaCreadaAsync(categoria);
 
             return CreatedAtAction(nameof(GetCategoria),
                 new { id = categoria.IdCategoria },
